@@ -2,12 +2,10 @@
 안녕하세요! 개발자 꿈나무 정예지입니다. 🌱
 <br />
 <br />
-<br />
 ## My values
 🧸 꾸준함을 추구합니다.<br />
 ✨ 비교는 오직 '어제의 나'와!<br />
 ✏️ 습득한 내용은 기록하여 체득<br />
-<br />
 <br />
 <br />
 ## Skills
@@ -16,8 +14,3 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
 </div>
-<br />
-<br />
-<br />
-
-Copyright ⓒ yeji0214
