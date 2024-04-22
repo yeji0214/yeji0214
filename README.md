@@ -1,16 +1,23 @@
-### Hi there 👋
+## YEJI
+안녕하세요! 개발자 꿈나무 정예지입니다. 🌱
+<br />
+<br />
+<br />
+## My values
+🧸 꾸준함을 추구합니다.<br />
+✨ 비교는 오직 '어제의 나'와!<br />
+✏️ 습득한 내용은 기록하여 체득<br />
+<br />
+<br />
+<br />
+## Skills
+<div style="display:flex;gap:30px;flex-wrap:wrap;">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+</div>
+<br />
+<br />
+<br />
 
-<!--
-**yeji0214/yeji0214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Copyright ⓒ yeji0214
